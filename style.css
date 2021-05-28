@@ -37,18 +37,18 @@ body {
 }
 
 #banner .content h1 {
-  border: 3px solid white;
-  position: relative;
-  top: 50px;
-  width: 400px;
-  margin: 0 auto;
+      border: 3px solid white;
+    position: relative;
+    top: 200px;
+    width: 400px;
+    margin: 0px auto;
 }
 
 #main {
   margin: 0 auto;
   padding: 40px;
   text-align: center;
-  width: 400px;
+  width: 1200px;
   height: 1000px;
   overflow: scroll;
 }
