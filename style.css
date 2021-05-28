@@ -32,16 +32,17 @@ body {
 
 #banner .content h1 {
   border: 3px solid white;
-  position: relative;
-  top: 50px;
-  width: 400px;
-  margin: 0 auto;
+    position: relative;
+    top: 200px;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 #main {
-  padding: 10px;
+  padding: 40px;
   text-align: center;
-  width: 400px;
+  width: 1200px;
   margin:0 auto;
 }
 
